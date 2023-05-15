@@ -28,6 +28,7 @@ def main():
         st.text("NEw changes")
         st.text("NEw changes here")
         st.text("NEw changes here 2")
+        st.text("NEw changes here 3")
         print("Hello")
         st.text("Built with Streamlit")
 
