@@ -25,6 +25,7 @@ def main():
         st.success('The output is {}'.format(result))
     if st.button("About"):
         st.text("Lets LEarn")
+        st.text("NEw changes")
         print("Hello")
         st.text("Built with Streamlit")
 
