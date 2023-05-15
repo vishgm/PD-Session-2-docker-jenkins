@@ -26,6 +26,8 @@ def main():
     if st.button("About"):
         st.text("Lets LEarn")
         st.text("NEw changes")
+        st.text("NEw changes here")
+        st.text("NEw changes here 2")
         print("Hello")
         st.text("Built with Streamlit")
 
